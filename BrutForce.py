@@ -2,8 +2,7 @@ import random
 import os
 import datetime 
 os.system("cls")
-#VARIAVEIS
-#ALUNO: ALUISIO WENDEL CABRAL DA SILVA
+#By: WENDEL CABRAL
 
 #VARIAVEIS
 senha=""
