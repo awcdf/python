@@ -4,8 +4,6 @@ import datetime
 os.system("cls")
 #VARIAVEIS
 #ALUNO: ALUISIO WENDEL CABRAL DA SILVA
-#MATRICULA: 201202036481
-
 
 #VARIAVEIS
 senha=""
